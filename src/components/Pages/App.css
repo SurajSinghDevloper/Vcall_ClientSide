@@ -1,0 +1,25 @@
+/* _____________HOME_____________________ */
+#Home{
+  background: rgb(0, 101, 219);
+  background: linear-gradient(90deg, rgb(0, 101, 219)50%, rgb(0, 212, 255)100%);
+  min-height: 500px;
+}
+
+/* ______________Cards____________________ */
+.card:hover{
+  cursor: pointer;
+  box-shadow: 0.5rem 1rem rgba(0, 0, 0, .15);
+}
+
+/* ________________Form__________________ */
+.from{
+  background-color: rgba(0, 0, 0, 0.05);
+  background: linear-gradient(90deg, rgb(0, 101, 219)50%, rgb(0, 212, 255)100%);
+}
+
+
+/* ________________Footer_______________ */
+#Footer{
+  background-color: rgba(0, 0, 0, 0.05);
+  background: linear-gradient(90deg, rgb(0, 101, 219)50%, rgb(0, 212, 255)100%);
+}
